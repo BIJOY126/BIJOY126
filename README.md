@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BIJOY126
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning SQL database, reporting tool like Power Bi, Tableau, Predictive analytical tool SPSS, Langaugue python
+- 🌱 I’m currently learning SQL database, reporting tool like Power Bi, Tableau, Predictive analytical tool SPSS, Programming Langaugue python, R
 
 
 <!---
